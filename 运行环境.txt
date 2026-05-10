@@ -1,0 +1,8 @@
+| 项目 | 说明 |
+|------|------|
+| **操作系统** | macOS / Windows / Linux 均可 |
+| **Python** | **3.10 及以上**（推荐 3.11；已在 3.13 下验证可运行） |
+| **硬件** | 常规笔记本即可；全量约 2.8 万条货描 + jieba 分词，内存建议 **≥ 8 GB** |
+| **网络** | 安装依赖时需联网；**运行脚本无需联网** |
+
+依赖库见仓库根目录 `requirements.txt`（`pandas`、`numpy`、`openpyxl`、`scikit-learn`、`jieba`、`matplotlib`）。
